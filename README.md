@@ -1,9 +1,9 @@
 ### Hi, I'm Lauren :sparkles:
 
-#### I'm a VP of engineering who is passionate about AI and test-driven development. :computer:
+#### I'm a VP of Engineering with a passion for AI and developing innovative tools that empower software engineers. :computer:
 
-##### I'm most excited about NLP and developing tooling ecosystems for software engineers.
+I'm most excited about the intersection of NLP and engineering solutions, with a current focus on leveraging NLP to build systems that improve web accessibility for people of all abilities.
 
-##### For fun, I like to build mobile apps and play with the latest models and datasets from Hugging Face.
+In my spare time, I love experimenting with mobile app development and diving into the latest models and datasets from Hugging Face.
 
-##### Besides programming, I enjoy gaming :video_game:, chilling with my cats :cat: and dog :dog:, coffee :coffee:, and being outdoors :mountain:.
+When I'm not coding, you'll find me gaming :video_game:, hanging out with my cats :cat: and dog :dog:, sipping coffee :coffee:, or enjoying the great outdoors :mountain:.
